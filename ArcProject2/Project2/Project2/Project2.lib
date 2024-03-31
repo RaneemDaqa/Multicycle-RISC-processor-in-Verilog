@@ -1,0 +1,326 @@
+timestamp=1706563177907
+
+[~A]
+C:/My_Designs/ArcProject2 - Copy/Project2/src/CPU.v=0*1851820*1854744
+C:/My_Designs/ArcProject2 - Copy/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v_DFlipFlop.v_DFlipFlop_testbench.v_DataMemory_testbench.v_CPU_testbench.v=0*953749*964686
+C:/My_Designs/ArcProject2 - Copy/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v_DFlipFlop.v_DFlipFlop_testbench.v_DataMemory_testbench.v_CPU_testbench.v_concatenation.v_concatenation_testbench.v=0*2552413*2564864
+C:/My_Designs/ArcProject2/Project2/src/InstructionMemory.v=0*157797*158583
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v=0*57589*61162
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v=0*128082*132075
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v=0*135378*139715
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v=0*151692*156497
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v=0*161945*166796
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v=0*446667*452235
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v=0*456471*462172
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v=0*582737*588853
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v=0*593518*599640
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v=0*710768*717445
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v=0*735384*742434
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v=0*787418*794883
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v=0*800959*808818
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v=0*814944*822840
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v_DFlipFlop.v_DFlipFlop_testbench.v=0*829482*837764
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v_DFlipFlop.v_DFlipFlop_testbench.v_DataMemory_testbench.v=0*879197*889871
+C:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v_RegFile_testbench.v_ControlUnit_testbench.v_InstructionMemory.v_InstructionMemory_testbench.v_DataMemory.v_PC.v_PC_testbench.v_CPU.v_Extender.v_IR.v_IR_testbench.v_Adder.v_Adder_testbench.v_Extender_testbench.v_DFlipFlop.v_DFlipFlop_testbench.v_DataMemory_testbench.v_CPU_testbench.v=0*935051*945981
+LastVerilogToplevel=concatenation_testbench
+ModifyID=182
+Version=74
+c:/My_Designs/ArcProject2/Project2/src/Mux2x1.v=0*390*845
+c:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v=0*1960*2674
+c:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v=0*7027*8202
+c:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v=0*46441*48342
+c:/My_Designs/ArcProject2/Project2/src/Mux2x1.v_Mux2x1_testbench.v_Mux4x1.v_Mux4x1_testbench.v_ALU.v_ALU_testbench.v_RegFile.v_ControlUnit.v=0*51159*54732
+
+[~MFT]
+0=33|0Project2.mgf|2564864|1490982
+1=58|1Project2.mgf|7166781|7098402
+3=116|3Project2.mgf|7122956|7051689
+
+[$root]
+A/$root=22|||1*7109939
+BinW64/$root=3*7065602
+SLP=3*7065717
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c73a565f2ade592f8ac1c68f484c9216870ad2475aa2bb60479adc8379e4db10
+
+[ALU]
+A/ALU=22|../src/ALU.v|11|1*7115678
+BinW64/ALU=3*7070606
+R=../src/ALU.v|11
+SLP=3*7072136
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b3eb40c25b2a3c0379c7730185183eecab3f3379443fdc59a4db524855b0bad3
+
+[ALU_testbench]
+A/ALU_testbench=22|../src/ALU_testbench.v|3|1*7117126
+BinW64/ALU_testbench=3*7072996
+R=../src/ALU_testbench.v|3
+SLP=3*7074264
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|6ef14922ceb95bfa6c6d3b2630339abfcb7d6ac71aa84bba73aefaf67f8962a0cd40a3fdd94a736ae759a6fd72c65a90
+
+[ControlUnit_testbench]
+A/ControlUnit_testbench=22|../src/ControlUnit_testbench.v|1|1*7127277
+BinW64/ControlUnit_testbench=3*7085408
+R=../src/ControlUnit_testbench.v|1
+SLP=3*7087369
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|bc95a8a8863958829627a926a99bb13119edb4c0487747ba42b1c70099cef85a61f27ba0a7e405109ef70b952951850c
+
+[DataMemory]
+A/DataMemory=22|../src/DataMemory.v|1|1*2128433
+BinW64/DataMemory=3*2363008
+R=../src/DataMemory.v|1
+SLP=3*2365013
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|ab5b04ae54b0797c38b8547f936232d99426d89c50ff4379bf89bab4c639842de3f0ee564a54aa92affab859e11a84e2
+
+[Extender]
+A/Extender=22|../src/Extender.v|1|1*2057793
+BinW64/Extender=3*2285889
+R=../src/Extender.v|1
+SLP=3*2286521
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a261af10a9c686e7aecc5c2773f178128e9d9588c4ff5cca4594dc3e49d761f78e254a9187e0c262348cd1884011f91f
+
+[IR]
+A/IR=22|../src/IR.v|1|1*7154345
+BinW64/IR=3*7107683
+R=../src/IR.v|1
+SLP=3*7109020
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|349ded6c1a70f0a9c961aaa5be36bb417720a95a094e40ddb88d776fde8285d8
+
+[IR_testbench]
+A/IR_testbench=22|../src/IR_testbench.v|3|1*7157185
+BinW64/IR_testbench=3*7110847
+R=../src/IR_testbench.v|3
+SLP=3*7112019
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|22f8f671f6bcd6bde06ae49b1970f6cb6868b665c93c5eca17752a62c794ab8c7f5011e7d8bbf397fc36aac1b55ea081
+
+[InstructionMemory]
+A/InstructionMemory=22|../src/InstructionMemory.v|1|1*7130782
+BinW64/InstructionMemory=3*7088538
+R=../src/InstructionMemory.v|1
+SLP=3*7090199
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b86a443a1d82ec234d09f8a4c7b8cd6b46404b5c54a2301d05949f8e3043a720a7dc29d21f15f45754b6d48dffa63f1a
+
+[InstructionMemory_testbench]
+A/InstructionMemory_testbench=22|../src/InstructionMemory_testbench.v|4|1*7132749
+BinW64/InstructionMemory_testbench=3*7091044
+R=../src/InstructionMemory_testbench.v|4
+SLP=3*7091950
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b86a443a1d82ec234d09f8a4c7b8cd6b4746cd2952d8a485f251b22996c314541d3787b3ab0946154ba49ab0946315c835e5f59e626f3c773770f19946143017
+
+[InstructionMemory_textbench]
+A/InstructionMemory_textbench=22|../src/InstructionMemory_testbench.v|3|1*1355787
+BinW64/InstructionMemory_textbench=3*1506189
+R=../src/InstructionMemory_testbench.v|3
+SLP=3*1507092
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|b86a443a1d82ec234d09f8a4c7b8cd6b36037c0da68ffaf4eaca2c3a7c37ff0d039481e5e2a3ab5002092fceec13435e3bc6edbaa8205d2acfca66189e69293a
+
+[PC]
+A/PC=22|../src/PC.v|1|1*7136251
+BinW64/PC=3*7095570
+R=../src/PC.v|1
+SLP=3*7096216
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8180830d307fd32bf17aee65de57f6925d6998894334402fc684e64153d2ca1d
+
+[PC_testbench]
+A/PC_testbench=22|../src/PC_testbench.v|3|1*7137491
+BinW64/PC_testbench=3*7096495
+R=../src/PC_testbench.v|3
+SLP=3*7097758
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d20b09136f1b957fa774af0413ee9c0f14599708bd8b2592638d96f084e43a0431d61bf84d6ed4a03480e23a20287a06
+
+[RegFile]
+A/RegFile=22|../src/RegFile.v|1|1*7119025
+BinW64/RegFile=3*7075240
+R=../src/RegFile.v|1
+SLP=3*7076364
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|d0e0049a7c15a9eb84595120644d7cdc26527262ddaa47cb266f3a3c4d9b973a74e08eac3a4a9f55659e2690ecc05527
+
+[RegFile_tb]
+A/RegFile_tb=22|../src/RegFile.v|32|1*710699
+BinW64/RegFile_tb=3*789467
+R=../src/RegFile.v|32
+SLP=3*790803
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|8d217110a8c605dbae5c66eaf5e4f7f48bb75ac5884fe1c7c0be707d61c5c7ec1402e3aba868d61bd7ca693dc74e38c5
+
+[RegFile_testbench]
+A/RegFile_testbench=22|../src/RegFile_testbench.v|1|1*7124821
+BinW64/RegFile_testbench=3*7082557
+R=../src/RegFile_testbench.v|1
+SLP=3*7084323
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|3334762e605646d064483ec11b1e08a80a43c99e27d901a92e71a1106f759d04c9f9291029cbe4942b1f82870f1502c8
+
+[adder_32bit]
+A/adder_32bit=22|../src/Adder.v|1|1*7152087
+BinW64/adder_32bit=3*7106386
+R=../src/Adder.v|1
+SLP=3*7106830
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|0de7a0418c402020d109f1065e97fd3139862156f8ca303f646a3d19e3877fb9963262a1b0a1494e8110701b17814a81
+
+[adder_32bit_tb]
+A/adder_32bit_tb=22|../src/Adder_testbench.v|3|1*7159276
+BinW64/adder_32bit_tb=3*7112882
+R=../src/Adder_testbench.v|3
+SLP=3*7113753
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2d09487c09f791236d4be8f4819ebc22e39302d3290477d1cffffdc09b0b83c4323ad3a967bb0446bc70b24c75e176c3
+
+[concatenation]
+A/concatenation=22|../src/concatenation.v|1|1*7153224
+BinW64/concatenation=3*7107032
+R=../src/concatenation.v|1
+SLP=3*7107471
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|3e18b08922ce32b39cf54896bab16bef6e95bddbaedad79d4a7c56e30607b634340adb500dba2b429d8dfbf80dbfd2bb
+
+[concatenation_testbench]
+A/concatenation_testbench=22|../src/concatenation_testbench.v|1|1*7166781
+BinW64/concatenation_testbench=3*7121838
+R=../src/concatenation_testbench.v|1
+SLP=3*7122956
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|3e18b08922ce32b39cf54896bab16bef54d6ee04c0ce9af9695912a441da4df726527262ddaa47cb266f3a3c4d9b973a7594cf453ae0eed504e483ef793e4505
+
+[controlUnit]
+A/controlUnit=22|../src/ControlUnit.v|1|1*7121119
+BinW64/controlUnit=3*7076964
+R=../src/ControlUnit.v|1
+SLP=3*7079451
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|46b704757761f72fba12d18169f10673589928b93ab93a7bd15df33582cd62669e40c99334ca8240d1dc6a26130185c1
+
+[cpu]
+A/cpu=22|../src/CPU.v|1|1*7139187
+BinW64/cpu=3*7098451
+R=../src/CPU.v|1
+SLP=3*7101588
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|13d2a6012ae176ed67c47d3a5127b060dfdbde97f30ceb515dac3b1667058757
+
+[cpu_testbench]
+A/cpu_testbench=22|../src/CPU_testbench.v|1|1*7165401
+BinW64/cpu_testbench=3*7120153
+R=../src/CPU_testbench.v|1
+SLP=3*7121159
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|81524afe3c72053e6d7ca247e5511c10223579394cc90976267d8b593739c1c015f2b57e81f61121a83234c32f2f7a44
+
+[dFlipFlop]
+A/dFlipFlop=22|../src/DFlipFlop.v|1|1*7150825
+BinW64/dFlipFlop=3*7105475
+R=../src/DFlipFlop.v|1
+SLP=3*7106185
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|c18c0d833830deae64b8ee0536b1aaacccb06293bff00f9b1b6ee0e026c0dd393900c074ad5a4629762eb005fa1db95a
+
+[dFlipFlop_testbench]
+A/dFlipFlop_testbench=22|../src/DFlipFlop_testbench.v|3|1*7161884
+BinW64/dFlipFlop_testbench=3*7115675
+R=../src/DFlipFlop_testbench.v|3
+SLP=3*7117180
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|a2b08dbbf07c0fb4fd5d80951c8855b62fda6fd0d80bec5b474d43b02dc2901cd811b640691f4c382bd7e8a41ff57f73
+
+[data_memory_with_stack]
+A/data_memory_with_stack=22|../src/DataMemory.v|1|1*7133971
+BinW64/data_memory_with_stack=3*7092489
+R=../src/DataMemory.v|1
+SLP=3*7094667
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|465d813ca56e9a4a17c3765930d02cf7c05e93e2be95d090597cdcdca2bf6c8407aedee28dcc9d855fbf6ae14bbabd60
+
+[data_memory_with_stack_tb]
+A/data_memory_with_stack_tb=22|../src/DataMemory_testbench.v|3|1*7163684
+BinW64/data_memory_with_stack_tb=3*7117779
+R=../src/DataMemory_testbench.v|3
+SLP=3*7119135
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|465d813ca56e9a4a17c3765930d02cf701e4777589f5bce3e4b17111c97b1be6d21fbfd1a03be7c677bfded132dce477808bab1594c495ee6540fcd199428955
+
+[data_memory_with_stack_testbench]
+A/data_memory_with_stack_testbench=22|../src/DataMemory_testbench.v|3|1*2625774
+BinW64/data_memory_with_stack_testbench=3*2833697
+R=../src/DataMemory_testbench.v|3
+SLP=3*2835060
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|465d813ca56e9a4a17c3765930d02cf764c3e6d80dfe1ac156ee25c5dc13defcd49659da74e26a4d5ecb6e525ffe10c72480801e9f3c3aba458b04f8e7cd9152
+
+[mux2x1]
+A/mux2x1=22|../src/Mux2x1.v|1|1*7110521
+BinW64/mux2x1=3*7065785
+R=../src/Mux2x1.v|1
+SLP=3*7066216
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|269c48f88c4a6630b0dac62e83881d975eed9d3b486020fadef9746736d8e7ba
+
+[mux2x1_testbench]
+A/mux2x1_testbench=22|../src/Mux2x1_testbench.v|1|1*7111623
+BinW64/mux2x1_testbench=3*7066455
+R=../src/Mux2x1_testbench.v|1
+SLP=3*7067175
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|2e7b645bf2876ae84ccf6f9270a970b6175939a9d2d156bb26286cb9f6d5e133eb6981ed4afba802442f03072ac5033f
+
+[mux4x1]
+A/mux4x1=22|../src/Mux4x1.v|1|1*7112867
+BinW64/mux4x1=3*7067690
+R=../src/Mux4x1.v|1
+SLP=3*7068312
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|e6b717cacdef1e1cfddf87fa026ec1015e60b61b994a034360dbf44f91ff0b5d
+
+[mux4x1_testbench]
+A/mux4x1_testbench=22|../src/Mux4x1_testbench.v|3|1*7114171
+BinW64/mux4x1_testbench=3*7068635
+R=../src/Mux4x1_testbench.v|3
+SLP=3*7069661
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|91e499721d2db6f578fa5f66d47c988bf01ec757735e389101bc2f8a607d0380c1329dac6436a64ac42a461f9d20d84e
+
+[rf_tb]
+A/rf_tb=22|../src/RegFile.v|3|1*243677
+BinW64/rf_tb=3*269379
+R=../src/RegFile.v|3
+SLP=3*270930
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|89d1389f07ef29280f9118213931271f29d6420d427a75c39b2066173fdca5bd
+
+[sign_extender]
+A/sign_extender=22|../src/Extender.v|1|1*7156127
+BinW64/sign_extender=3*7109902
+R=../src/Extender.v|1
+SLP=3*7110539
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|df7d39d39af9d98826d34c53b65a877a377be324bdaf8dcce61087b763eb592b59e303a63134d145233d3da1995dfb12
+
+[sign_extender_tb]
+A/sign_extender_tb=22|../src/Extender.v|19|1*2058831
+BinW64/sign_extender_tb=3*2286818
+R=../src/Extender.v|19
+SLP=3*2287665
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|df7d39d39af9d98826d34c53b65a877a3c6a4ab9ec9a7a22968e083ce895f2b06c3745907d0bbee2fa27a3949a5841af
+
+[sign_extender_testbench]
+A/sign_extender_testbench=22|../src/Extender_testbench.v|3|1*7160658
+BinW64/sign_extender_testbench=3*7114301
+R=../src/Extender_testbench.v|3
+SLP=3*7115153
+Version=13.0.376.8320 (Windows64)|0000000b789cd3f53752d02d2e33ca3634020010aa02e5|df7d39d39af9d98826d34c53b65a877aae2391a38026679c8849a2eecc37607326527262ddaa47cb266f3a3c4d9b973abf1df338a5cc5ab0b7f3bfce5e027fdb
+
+[~U]
+$root=12|0*2545260|
+ALU=12|0*2546584|
+ALU_testbench=12|0*2546840||0x10
+ControlUnit_testbench=12|0*2547889||0x10
+DataMemory=12|0*827050||0x10
+Extender=12|0*799720|
+IR=12|0*2550445|
+IR_testbench=12|0*2550947||0x10
+InstructionMemory=12|0*2548082|
+InstructionMemory_testbench=12|0*2548347||0x10
+InstructionMemory_textbench=12|0*538591||0x10
+PC=12|0*2548888|
+PC_testbench=12|0*2549105||0x10
+RegFile=12|0*2547015|
+RegFile_tb=12|0*292735||0x10
+RegFile_testbench=12|0*2547706||0x10
+adder_32bit=12|0*2549992|
+adder_32bit_tb=12|0*2551120||0x10
+concatenation=12|0*2550208|
+concatenation_testbench=12|0*2552191||0x10
+controlUnit=12|0*2547277|
+cpu=12|0*2549278|
+cpu_testbench=12|0*2551908||0x10
+dFlipFlop=12|0*2549744|
+dFlipFlop_testbench=12|0*2551493||0x10
+data_memory_with_stack=12|0*2548550|
+data_memory_with_stack_tb=12|0*2551708||0x10
+data_memory_with_stack_testbench=12|0*991629||0x10
+mux2x1=12|0*2545762|
+mux2x1_testbench=12|0*2545986||0x10
+mux4x1=12|0*2546167|
+mux4x1_testbench=12|0*2546403||0x10
+rf_tb=12|0*105890||0x10
+sign_extender=12|0*2550718|
+sign_extender_tb=12|0*799938||0x10
+sign_extender_testbench=12|0*2551297||0x10

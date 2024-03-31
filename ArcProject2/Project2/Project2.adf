@@ -1,0 +1,80 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Project2
+[Library]
+Project2=.\Project2\Project2.lib
+[$LibMap$]
+Project2=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Mux2x1.v=-1
+/Mux2x1_testbench.v=-1
+/Mux4x1.v=-1
+/Mux4x1_testbench.v=-1
+/ALU.v=-1
+/ALU_testbench.v=-1
+/RegFile.v=-1
+/ControlUnit.v=-1
+/RegFile_testbench.v=-1
+/ControlUnit_testbench.v=-1
+/InstructionMemory.v=-1
+/InstructionMemory_testbench.v=-1
+/DataMemory.v=-1
+/PC.v=-1
+/PC_testbench.v=-1
+/CPU.v=-1
+/Extender.v=-1
+/IR.v=-1
+/IR_testbench.v=-1
+/Adder.v=-1
+/Adder_testbench.v=-1
+/Extender_testbench.v=-1
+/DFlipFlop.v=-1
+/DFlipFlop_testbench.v=-1
+/DataMemory_testbench.v=-1
+/CPU_testbench.v=-1
+/concatenation.v=-1
+/concatenation_testbench.v=-1
+[Files.Data]
+.\src\Mux2x1.v=Verilog Source Code
+.\src\Mux2x1_testbench.v=Verilog Source Code
+.\src\Mux4x1.v=Verilog Source Code
+.\src\Mux4x1_testbench.v=Verilog Source Code
+.\src\ALU.v=Verilog Source Code
+.\src\ALU_testbench.v=Verilog Source Code
+.\src\RegFile.v=Verilog Source Code
+.\src\ControlUnit.v=Verilog Source Code
+.\src\RegFile_testbench.v=Verilog Source Code
+.\src\ControlUnit_testbench.v=Verilog Source Code
+.\src\InstructionMemory.v=Verilog Source Code
+.\src\InstructionMemory_testbench.v=Verilog Source Code
+.\src\DataMemory.v=Verilog Source Code
+.\src\PC.v=Verilog Source Code
+.\src\PC_testbench.v=Verilog Source Code
+.\src\CPU.v=Verilog Source Code
+.\src\Extender.v=Verilog Source Code
+.\src\IR.v=Verilog Source Code
+.\src\IR_testbench.v=Verilog Source Code
+.\src\Adder.v=Verilog Source Code
+.\src\Adder_testbench.v=Verilog Source Code
+.\src\Extender_testbench.v=Verilog Source Code
+.\src\DFlipFlop.v=Verilog Source Code
+.\src\DFlipFlop_testbench.v=Verilog Source Code
+.\src\DataMemory_testbench.v=Verilog Source Code
+.\src\CPU_testbench.v=Verilog Source Code
+.\src\concatenation.v=Verilog Source Code
+.\src\concatenation_testbench.v=Verilog Source Code
+[HierarchyViewer]
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=

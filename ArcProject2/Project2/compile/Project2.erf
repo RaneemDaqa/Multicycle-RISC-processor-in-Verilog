@@ -1,0 +1,71 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 1
+UPDATEPROGRESS 2
+UPDATEPROGRESS 3
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 7
+UPDATEPROGRESS 8
+UPDATEPROGRESS 10
+UPDATEPROGRESS 11
+UPDATEPROGRESS 12
+UPDATEPROGRESS 13
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 17
+UPDATEPROGRESS 18
+UPDATEPROGRESS 20
+UPDATEPROGRESS 21
+UPDATEPROGRESS 22
+UPDATEPROGRESS 23
+UPDATEPROGRESS 25
+UPDATEPROGRESS 26
+UPDATEPROGRESS 27
+UPDATEPROGRESS 28
+UPDATEPROGRESS 30
+UPDATEPROGRESS 31
+UPDATEPROGRESS 32
+UPDATEPROGRESS 33
+UPDATEPROGRESS 35
+MESSAGE "Pass 2. Processing instantiations."
+UPDATEPROGRESS 37
+UPDATEPROGRESS 40
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 48
+UPDATEPROGRESS 51
+UPDATEPROGRESS 54
+UPDATEPROGRESS 57
+UPDATEPROGRESS 60
+UPDATEPROGRESS 64
+UPDATEPROGRESS 80
+MESSAGE "Running Optimizer."
+MESSAGE "ELB/DAG code generating."
+MESSAGE_SP VCP2113 "Module \$root found in current working library."
+UPDATEPROGRESS 81
+UPDATEPROGRESS 82
+UPDATEPROGRESS 83
+UPDATEPROGRESS 84
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 87
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 90
+UPDATEPROGRESS 91
+UPDATEPROGRESS 92
+UPDATEPROGRESS 93
+UPDATEPROGRESS 94
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 97
+UPDATEPROGRESS 98
+UPDATEPROGRESS 99
+MESSAGE "Unit top modules: mux2x1_testbench mux4x1_testbench ALU_testbench RegFile_testbench ControlUnit_testbench InstructionMemory_testbench PC_testbench IR_testbench adder_32bit_tb sign_extender_testbench dFlipFlop_testbench data_memory_with_stack_tb cpu_testbench concatenation_testbench."
+MESSAGE "$root top modules: mux2x1_testbench mux4x1_testbench ALU_testbench RegFile_tb RegFile_testbench rf_tb ControlUnit_testbench DataMemory PC_testbench InstructionMemory_textbench InstructionMemory_testbench sign_extender_tb IR_testbench adder_32bit_tb sign_extender_testbench dFlipFlop_testbench data_memory_with_stack_testbench cpu_testbench concatenation_testbench data_memory_with_stack_tb."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."
+WARNING ALOG: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "done"

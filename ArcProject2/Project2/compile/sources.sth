@@ -1,0 +1,17 @@
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/DFlipFlop.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/DataMemory.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/ALU.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/Mux2x1.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/RegFile.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/Extender.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/IR.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/InstructionMemory.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/concatenation.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/Adder.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/PC.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/Mux4x1.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/ControlUnit.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/CPU.v=S
+C:\My_Designs\ArcProject2 - Copy\Project2/src/CPU_testbench.v=S

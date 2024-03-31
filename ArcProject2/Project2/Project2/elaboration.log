@@ -1,0 +1,37 @@
+Active-HDL 13.0.376.8320 2024-01-29 23:19:39
+
+Elaboration top modules:
+Verilog Module                cpu_testbench
+
+
+--------------------------------------------------------------------------------------------
+Verilog Module          | Library  | Info | Compiler Version          | Compilation Options
+--------------------------------------------------------------------------------------------
+cpu_testbench           | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+cpu                     | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+controlUnit             | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+dFlipFlop               | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux4x1                  | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+PC                      | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+adder_32bit             | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+concatenation           | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+InstructionMemory       | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+IR                      | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+sign_extender           | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+mux2x1                  | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+RegFile                 | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+ALU                     | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+data_memory_with_stack  | project2 |      | 13.0.376.8320 (Windows64) | -O2 -sv2k12
+--------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------
+Library                 | Comment
+--------------------------------------------------------------------------------------------
+project2                | None
+--------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r cpu_testbench
+
+
+The performance of simulation is reduced. Version Student Edition
